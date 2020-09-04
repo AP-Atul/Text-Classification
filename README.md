@@ -3,7 +3,7 @@ For perfoming text classification we need some kind of labelled dataset. So the 
 
 But that's no fun. I wanted to learn scraping and collecting data and going through the process of pre-processing data, so here's a implementation.
 
-So I needed a candidate for scraping, also I needed to label the dataset. Also, I wanted to do text processing on my mother tongue 'Marathi'. Finally decided to scrap news headlines, since they each have category, so if I scrap each category, I will have data and labels. Easy so I implemented the scraper with beautiful soup. After running into multiple issue finised the scraper and it worked.
+So I needed a candidate for scraping, also I needed to label the dataset. Also, I wanted to do text processing on my mother tongue 'Marathi'. Finally decided to scrap news headlines, since they each have category, so if I scrap each category, I will have data and labels. Easy, so I implemented the scraper with beautiful soup. After running into multiple issue finished the scraper and it worked.
 It's not much but it's honest work ;)
 
 After scraping and labelling, created a data frame and created a standard csv file. 
